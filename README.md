@@ -1,7 +1,7 @@
 ﻿
-# MERN E-COMMERCE SERVER 2024
+# MERN E-COMMERCE
 
-Hi! My name is **Abhishek Nahar Singh**, I have created this tutorial to teach MERN Stack for free on YouTube.
+Hi! My name is **Shruti Keshav Buyre**, I have created this tutorial to teach MERN Stack for free on YouTube.
 
 # Prerequisite
 
@@ -32,10 +32,4 @@ PRODUCT_PER_PAGE=`8 or any`
 
 _fill each filed with your info respectively_
 
-## Author
-
-**Instagram** Click [Here](https://www.instagram.com/meabhisingh) **@meAbhiSingh**
-**YouTube** Click [Here](https://www.youtube.com/channel/UCO7afj9AUo0zV69pqEYhcjw/) **6 Pack Programmer**
-**LinkedIn** Click [Here](https://in.linkedin.com/in/meabhisingh) **@meAbhiSingh**
-**Twitter** Click [Here](https://twitter.com/meAbhi_Singh) **@meAbhi_Singh**
 
